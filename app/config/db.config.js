@@ -1,3 +1,3 @@
 module.exports = {
-    url: 'mongodb+srv://root:root@majadabae.iesoc.mongodb.net/API2ANO'
+    url: 'mongodb+srv://oadefrag:l3PPLJLnkXxkgC6r@frontendapi.jxtn9cp.mongodb.net/'
 }
